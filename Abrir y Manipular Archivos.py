@@ -1,0 +1,1 @@
+mi_archivo = open("Prueba.txt")
