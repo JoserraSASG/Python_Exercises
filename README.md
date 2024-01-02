@@ -17,14 +17,18 @@ Un script para un juego de ahorcado, donde el usuario debe adivinar una palabra 
 ## 5. Adivina el Número (`Fourth_project.py`)
 Un juego interactivo donde el usuario intenta adivinar un número generado aleatoriamente. El script maneja la lógica de intentos y proporciona pistas al usuario.
 
-## 6. Cálculo de Comisiones (`second_project.py`)
+## 6. Analizador de Texto (`third_project.py`)
+Este script permite al usuario ingresar un texto y analiza varias características del mismo, como la frecuencia de ciertas letras, la longitud del texto, y la presencia de palabras específicas. También muestra el texto invertido y realiza un conteo de caracteres y palabras.
+
+## 7. Cálculo de Comisiones (`second_project.py`)
 Este script calcula las comisiones de los vendedores basadas en sus ventas totales. Incluye la interacción con el usuario para obtener datos de ventas y calcular comisiones.
 
-## 7. Generador de Nombres de Cerveza (`first_project.py`)
+## 8. Generador de Nombres de Cerveza (`first_project.py`)
 Un simple script que genera nombres para cervezas basados en la entrada del usuario, combinando el tipo de cerveza y el apellido del usuario.
 
 Cada script demuestra diferentes aspectos y capacidades de la programación en Python, desde juegos interactivos hasta aplicaciones prácticas en entornos comerciales.
 
 ## Contribuir
 Las contribuciones para mejorar estos scripts o añadir nuevas funcionalidades son bienvenidas.
+
 
